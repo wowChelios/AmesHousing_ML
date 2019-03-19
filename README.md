@@ -1,2 +1,3 @@
-# AmesHousing_ML
-The Ames Housing Price prediction
+# Advanced Regression Techniques: Iowa House Prices Predicting
+## Introduction
+There are many factors involved in real estate pricing. In reality, it is often hard for us to tell which factors are more important and which factors are not. In this project, we are going to predict house prices of Ames, Iowa with supervised predictive modeling techniques. The dataset is from a Kaggle competition, it has a total number of 80 features for each observation. During this project, we learning the entire machine learning process from data cleaning to advanced model ensembling techniques like stacking. [Link of the Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
